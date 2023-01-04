@@ -1,0 +1,32 @@
+*{margin:auto;
+  
+}
+.container{
+    text-align:center;
+    margin-top:50px;
+}
+button{width:60px;
+   height:50px;
+   background-color:gray;
+   font-size:20px;
+   border-radius:7px;
+    
+    padding:4px;
+}
+button:hover{width:70px;
+             height:60px;
+             background-color:darkgrey;
+}
+input {
+    font-size: 30px;
+    width: 245px;
+    border: 2px solid blue;
+    border-radius:7px;
+}
+input:hover{
+    width:255px;
+    border:5px solid blue;
+}
+body{
+    background-color:aqua;
+}
